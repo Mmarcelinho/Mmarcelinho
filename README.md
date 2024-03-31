@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://open.spotify.com/user/marcelo__1998">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcelo__1998&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <p align="left">My name is Marcelo, and I'm from Brazil 🇧🇷. I hold a degree in Analysis and Systems Development from SENAI - CIMATEC. Currently, I work as a freelancer and am determined to pursue a career in this field, with a strong desire to learn and grow continuously.</p>
@@ -40,6 +34,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="40" alt="windows logo"  />
 </div>
 
+###
+
 ### Skills
 
 - Technologies and languages
@@ -59,11 +55,15 @@
 
 </div>
 
+###
+
 - Frameworks
 
 <div align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40" alt="dotnet logo"  />
 </div>
+
+###
 
 - Database
 
@@ -74,6 +74,8 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" alt="sql server logo"  />
 
 </div>
+
+###
 
 - Currently studying
 
@@ -87,6 +89,17 @@
 
 </div>
 
+###
+
+## Spotify
+
+<div align="left">
+  <a href="https://open.spotify.com/user/marcelo__1998">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcelo__1998&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ## Contact me
 
@@ -95,4 +108,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="40" alt="gmail logo"  />
   </a>
 </div>
+
 
