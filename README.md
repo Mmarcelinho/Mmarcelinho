@@ -91,16 +91,6 @@
 
 ###
 
-## Spotify
-
-<div align="left">
-  <a href="https://open.spotify.com/user/marcelo__1998">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcelo__1998&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ## Contact me
 
 <div align="left">
