@@ -40,23 +40,13 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40" alt="dotnet logo"  />
 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="dotnet logo"  />
-    
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html logo"  />
 
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css logo"  />
-
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="js logo"  />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="40" alt="azure devops logo"  />
+  
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40" alt="angular logo"  />
 
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" alt="excel logo"  />
 
-</div>
-
-###
-
-- Frameworks
-
-<div align="left">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40" alt="dotnet logo"  />
 </div>
 
 ###
@@ -77,9 +67,7 @@
 
  <div align="left">
   
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40" alt="angular logo"  />
-
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="40" alt="azure devops logo"  />
+  
 
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" height="40" alt="rabbit mq logo"  />
 
